@@ -1,7 +1,4 @@
-package cs2321;
-
 import java.util.Iterator;
-import net.datastructures.*;
 import cs2321.*;
 
 /**
