@@ -1,4 +1,3 @@
-package cs2321;
 import net.datastructures.Position;
 
 public class Node<E> implements Position<E>{
